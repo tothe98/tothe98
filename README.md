@@ -70,7 +70,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/tothe98/tothe98/output/snake.svg" alt="Snake animation" />
-
-###
